@@ -116,7 +116,7 @@ func main() {
 	fmt.Println(total / 5)*/
 
 	/*var total float64 = 0
-	for _, value := range x {
+	for _, value := range x { // _(underscore) is used to tell the compiler that we don't need this.
 		total += value
 	}
 	fmt.Println(total / float64(len(x)))*/
